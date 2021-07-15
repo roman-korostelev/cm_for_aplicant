@@ -20,5 +20,6 @@
  По всем вопросам можете писать [Никите](https://vk.com/mikitinski) или [мне](https://vk.com/id167981660), с радостью ответим)
 # Полезные ссылки
  [тык](http://km.mmf.bsu.by/about.html) - сайт КМа, тоже можете почитать о специальности)
+ 
  [тык](https://mmf.bsu.by/ru/obrazovatelnye-resursy/kompyuternaya-matematika-i-sis-analiz/) - тут можете глянуть предметы по семестрам
 # Успехов!
